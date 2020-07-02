@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.card-img {
+  width: 50%;
+  margin: auto;
+}
+
+.badge.badge-outlined.badge-secondary {
+  border: 1px solid #323a45;
+  color: #323a45;
+  background-color: white;
+  width: 300px;
+}
